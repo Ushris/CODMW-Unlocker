@@ -1,6 +1,8 @@
 # CODMW-Unlocker
 Not Original, Edited
 
+DISCONTINUED
+
 Credits go to OP on UnknownCheats.me
 https://www.unknowncheats.me/forum/call-of-duty-modern-warfare/476965-soft-unlock-tool-code-v1-45-0-a.html   (Link to OP)
 

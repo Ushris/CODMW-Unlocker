@@ -21,3 +21,6 @@ wait for the animation/start up movie
 hit anykey, wait for CMD prompt to open, and then go into the game you launched, and that should be good 
 
 (Ive noticed attachments arent unlocked, but you can use blueprints, all ops, some camos, all stickers, all dangles, ect ect...)
+
+
+Updated For MW2 
